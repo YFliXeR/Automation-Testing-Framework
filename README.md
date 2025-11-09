@@ -24,14 +24,7 @@ It’s designed to automate and validate key user workflows on an e-commerce web
 ---
 
 ## 🧠 Project Structure
-src/
-├── main/
-│ ├── java/
-│ │ ├── pages/ # Page Object Model classes
-│ │ ├── utiles/ # Helper classes (DriverManager, Reports, etc.)
-│ │ └── tests/ # TestNG test classes
-├── testng.xml # Test suite configuration
-└── pom.xml # Maven dependencies
+<img width="423" height="170" alt="image" src="https://github.com/user-attachments/assets/0ad16bc7-abb6-4409-a85a-d720a44a6456" />
 
 ---
 
