@@ -24,3 +24,21 @@ It’s designed to automate and validate key user workflows on an e-commerce web
 ---
 
 ## 🧠 Project Structure
+src/
+├── main/
+│ ├── java/
+│ │ ├── pages/ # Page Object Model classes
+│ │ ├── utiles/ # Helper classes (DriverManager, Reports, etc.)
+│ │ └── tests/ # TestNG test classes
+├── testng.xml # Test suite configuration
+└── pom.xml # Maven dependencies
+
+---
+
+## 🧰 How to Run
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/YFliXeR/Ecommerce-Automation-Framework.git
+2. Open in an IDE (Intellij)
+3. Run the test suite via testng.xml
+4. View the generated Extent Report under /reports.
